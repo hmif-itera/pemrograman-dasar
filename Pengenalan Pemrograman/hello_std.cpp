@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream> // library untuk input output
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+int main() { // fungsi utama
+    std::cout << "Hello, World!" << std::endl; // menampilkan teks "Hello, World!" ke layar
+    return 0; // mengembalikan nilai 0
 }
